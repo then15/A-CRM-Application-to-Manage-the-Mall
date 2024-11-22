@@ -30,3 +30,6 @@ The *Mall CRM Application* is a Customer Relationship Management (CRM) system de
 - Node.js installed (for JavaScript-based backend)
 - PostgreSQL/MySQL installed
 - Docker (optional, for containerized deployment)
+- For Demo:[click here](https://drive.google.com/file/d/16mrbKO7Hhlh2VNadipaQDm64eEnMUbKP/view?usp=drivesdk)
+
+
